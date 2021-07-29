@@ -7,7 +7,7 @@ The project aims to classify the tweets into a good tweet or a racist/sexist twe
 
 Thus, the model tries to predict the labels of the tweets in the data set. 
 
-- The Notebook file is `Credit Card Lead Prediction.ipynb`.
+- The Notebook file is `Twitter Sentiment Analysis.ipynb`.
 - The output file is `submit.csv`.
 
 
